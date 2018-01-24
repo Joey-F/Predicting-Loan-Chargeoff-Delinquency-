@@ -1,7 +1,7 @@
 
 
 
-data <- read.csv("D:\\Google Drive\\Programming\\Projects\\Upstart\\loan_timing.csv")
+data <- read.csv("D:\\Google Drive\\Programming\\Projects\\Upstart - Loan Chargeoff\\(Data) Predicting Loan Chargeoff.csv")
 
 
 #####
